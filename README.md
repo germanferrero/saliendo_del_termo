@@ -1,4 +1,8 @@
-# saliendo_del_termo
+# Saliendo del Termo 
+De FaMAF a Machinalis :)
 
-Charla presentada el Jueves 22 de Marzo en FaMAF.
-En el marco del ciclo de charlas: “Saliendo del Termo: De famaf a una empresa: estudié computación y trabajo”
+Build with [revealjs](http://revealjs.com/).
+
+MIT licensed
+
+Copyright (C) 2017 Hakim El Hattab, http://hakim.se
