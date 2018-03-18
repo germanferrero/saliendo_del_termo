@@ -1,6 +1,8 @@
 # Saliendo del Termo 
 De FaMAF a Machinalis :)
 
+To see the presentation visit [https://germanferrero.github.io/saliendo_del_termo](https://germanferrero.github.io/saliendo_del_termo)
+
 Build with [revealjs](http://revealjs.com/).
 
 MIT licensed
